@@ -117,7 +117,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ## Code
 
-For the rest of the code, check the [SQL_queries] file
+For the rest of the code, check the [Walmart SQL_queries] file
 
 ```sql
 -- Create database
